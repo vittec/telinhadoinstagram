@@ -1,4 +1,4 @@
-# Recriando a tela de login do Instagram!
+# Recriando a página de login do Instagram!
 
 Recriar esta tela do Instagram é um dos desafios que a DIO propõe no Bootcamp HTML Web Developer. O intuito era fazer com que essa tela se adaptasse ao navegador no desktop e em dispositivos móveis, bem responsivo!
 
@@ -21,5 +21,3 @@ Este projeto foi desenvolvido usando:
 ### HTML
 ### CSS
 ### E paciência e calma
-
-* [Meu perfil na DIO.] (https://web.dio.me/users/vitcomunicaa)
