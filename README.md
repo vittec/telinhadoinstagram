@@ -22,4 +22,4 @@ Este projeto foi desenvolvido usando:
 ### CSS
 ### E paciência e calma
 
-[Meu perfil na DIO.] (https://web.dio.me/users/vitcomunicaa)
+* [Meu perfil na DIO.] (https://web.dio.me/users/vitcomunicaa)
