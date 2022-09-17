@@ -15,3 +15,11 @@ Recriar esta tela do Instagram é um dos desafios que a DIO propõe no Bootcamp 
 
 #### E fecho com minha tela reproduzida em um dispositivo da Samsung:
 ## ![Tela4(SamsungGalaxy)](https://user-images.githubusercontent.com/109999267/190832280-47007181-41f7-4edc-b4b4-83aa2e4c9f74.png)
+
+## Tecnologias Utilizadas
+Este projeto foi desenvolvido usando:
+### HTML
+### CSS
+### E paciência e calma
+
+[Meu perfil na DIO.] (https://web.dio.me/users/vitcomunicaa)
